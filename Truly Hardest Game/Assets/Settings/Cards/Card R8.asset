@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fe8fa4a8ccdcb648b5a2a6fc0ecfef8, type: 3}
+  m_Name: Card R8
+  m_EditorClassIdentifier: 
+  _rating: 8
+  _image: {fileID: -6201725689300643883, guid: ae3d8ada0a0c3e64d93550a454714114, type: 3}

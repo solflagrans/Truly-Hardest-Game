@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefabs
+  m_GUID: f1fc37307b6119140b8585d81be7cabd
+  m_SerializeEntries:
+  - m_GUID: 227ee0e7cc5b8834dbef781dccf3eb17
+    m_Address: Assets/Prefabs/TriPeaks/Editor Card.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ec7be2d63a392c47bd1ad4dae8d354a
+    m_Address: Assets/Prefabs/TriPeaks/Stock Card.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3186cf77527c082489f749e059a7dec6
+    m_Address: Assets/Prefabs/TriPeaks/Peak Card.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a6a105c97aacd5345bb8e485929573a3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1289862e597aab74a884ac602b0ff144, type: 2}
+    - {fileID: 11400000, guid: 08c57d4b0427df4469af5f49f3eae979, type: 2}
